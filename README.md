@@ -20,7 +20,7 @@
    * Religion 
 
 **Experiments and comparitive analysis**:
- * Deep learning transformer based pre-language models using Transfer learning
+ * Deep learning transformer based pre-trained language models using Transfer learning
    * Training process
      * Data preprocessing -> Language model fine-tuning -> Hyperparameter search -> Training -> Evaluation (test set)   
    * Language models tested
